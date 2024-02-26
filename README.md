@@ -19,3 +19,26 @@ Redução de erros: A CI ajuda a identificar e corrigir erros mais cedo no proce
 Melhoria da qualidade: A CI ajuda a garantir que o código seja compatível e funcione corretamente, o que pode melhorar a qualidade geral do software.
 Aumento da produtividade: A CI pode ajudar os desenvolvedores a trabalhar de forma mais eficiente, pois eles não precisam esperar até que o código seja integrado à base de código principal para testá-lo.
 A CI é uma prática importante que pode ajudar a melhorar a qualidade e a produtividade do desenvolvimento de software.
+
+<hr>
+
+
+## CI (Continuous Integration)
+
+![CI1](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/980c906a-db86-452f-bace-6d66db8291b6)
+
+![CI2](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/4c1676c0-501e-4497-9d6b-1503e98f03a4)
+
+![CI3](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/7908c1c3-c0e4-4250-a018-1024d7450793)
+
+![CI4](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/b81fb8b4-3181-4af3-bbd4-c4cdb99b8ce0)
+
+![CI5](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/6ce7c3cf-d542-434a-b264-4fb05c7de1d3)
+
+![CI6](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/2252cd20-a9b5-4be5-9535-d6d64364b517)
+
+![CI7](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/e767a29e-9c05-4ea5-9696-ed33fbc3e952)
+
+![CI8](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/217adb13-e8ba-4fb5-b75a-9dd5a6882a08)
+
+![CI9](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/4dde8722-88ac-4b9d-9ff2-c98ea1f83c2a)
