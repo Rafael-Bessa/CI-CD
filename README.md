@@ -1,4 +1,4 @@
-# Continuous Integration - Continuous Delivery
+# Continuous Integration (JENKINS)
 
 <br> 
 
@@ -23,7 +23,7 @@ A CI é uma prática importante que pode ajudar a melhorar a qualidade e a produ
 <hr>
 
 
-## CI (Continuous Integration)
+
 
 ![CI1](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/980c906a-db86-452f-bace-6d66db8291b6)
 
@@ -42,3 +42,50 @@ A CI é uma prática importante que pode ajudar a melhorar a qualidade e a produ
 ![CI8](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/217adb13-e8ba-4fb5-b75a-9dd5a6882a08)
 
 ![CI9](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/4dde8722-88ac-4b9d-9ff2-c98ea1f83c2a)
+
+## Duas regras: Todo time commita pelo menos uma vez no dia, e o 'main' deve sempre estar em estado "deployável".
+
+# Continuous Delivery 
+
+O que a CD faz?
+
+Automação: A CD automatiza tarefas repetitivas, como integração de código, testes e implantação, liberando tempo e energia para sua equipe se concentrar em inovações.
+Velocidade: Com a CD, novas funcionalidades e correções de bugs chegam aos seus usuários com muito mais rapidez, impulsionando a agilidade do seu negócio.
+Confiabilidade: A automação garante que cada mudança seja testada e validada antes da implantação, reduzindo drasticamente o risco de erros e falhas.
+Feedback: A CD permite que você obtenha feedback do usuário mais rapidamente, ajudando a tomar decisões informadas sobre o desenvolvimento do seu software.
+Como funciona a CD?
+
+Integração Contínua: O código é integrado e validado frequentemente, garantindo que as alterações sejam compatíveis e funcionem como esperado.
+Testes Automatizados: Bateria de testes automatizados garante que o código esteja livre de erros e atenda aos requisitos de qualidade.
+Build Automatizado: O código é automaticamente convertido em um artefato pronto para implantação.
+Implantação Automatizada: O artefato é implantado em diferentes ambientes, como teste, homologação e produção, com total controle e confiabilidade.
+Benefícios da CD:
+
+Agilidade: Lançamentos frequentes e com menor tempo de espera.
+Qualidade: Redução significativa de erros e falhas na produção.
+Confiabilidade: Maior confiabilidade e estabilidade do software.
+Produtividade: Aumento da produtividade da equipe de desenvolvimento.
+Satisfação do cliente: Maior satisfação do cliente com entregas frequentes e de alta qualidade.
+Começando com a CD:
+
+Planejamento: Defina seus objetivos, processos e ferramentas de CD.
+Automação: Implemente ferramentas para automatizar tarefas de integração, testes, build e implantação.
+Cultura: Crie uma cultura de colaboração e comunicação entre as equipes de desenvolvimento e operações.
+Monitoramento: Monitore o desempenho e a qualidade do software em produção.
+Melhoria contínua: Aprimore continuamente seu processo de CD com base em feedback e aprendizados.
+Recursos para aprofundar seu conhecimento:
+
+Livro: Entrega Contínua - Jez Humble e David Farley: URL Livro Entrega Contínua
+Artigo: O que é entrega contínua? - Atlassian: URL Artigo O que é entrega contínua
+Ferramentas de CD: Jenkins, Azure DevOps, CircleCI: URL Ferramentas de CD
+A Entrega Contínua é uma ferramenta poderosa que pode revolucionar a forma como você desenvolve e entrega software. Ao automatizar o processo de desenvolvimento, você pode aumentar a velocidade, a qualidade e a confiabilidade do seu software, além de impulsionar a agilidade e a produtividade da sua equipe.
+
+Dica bônus: A CD é apenas uma parte da filosofia DevOps. Para um sucesso ainda maior, combine a CD com práticas de desenvolvimento ágil, infraestrutura como código e monitoramento constante.
+
+![c1](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/36944bd6-0f1b-4a20-9222-772a320a5860)
+
+![c2](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/d80d2277-efe2-4558-b460-0f1ab65fcfa5)
+
+![c3](https://github.com/Rafael-Bessa/CI-CD/assets/104053775/ff3e679d-007f-4d50-8a15-239fc9eea3c0)
+
+
